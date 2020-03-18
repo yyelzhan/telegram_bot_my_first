@@ -1,0 +1,16 @@
+{"usd":
+{"code":"USD",
+  "alphaCode":"USD",
+  "numericCode":"840",
+  "name":"U.S. Dollar",
+  "rate":0.0023098008505025,
+  "date":"Tue, 17 Mar 2020 00:00:01 GMT",
+  "inverseRate":432.93775728867},
+  "eur":{
+    "code":"EUR",
+    "alphaCode":"EUR",
+    "numericCode":"978",
+    "name":"Euro",
+    "rate":0.002070234988446,
+    "date":"Tue, 17 Mar 2020 00:00:01 GMT",
+    "inverseRate":483.03695260732}}
